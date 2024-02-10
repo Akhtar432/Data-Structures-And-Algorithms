@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Programming/dsaProblems/Searching&&Sorting",
-      "program": "d:/Programming/dsaProblems/Searching&&Sorting/build/Debug/outDebug",
+      "cwd": "d:/Programming/dsaProblems/Assignment_5",
+      "program": "d:/Programming/dsaProblems/Assignment_5/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

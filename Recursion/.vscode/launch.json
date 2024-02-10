@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Programming/DSA By Love Babbar/Recursion",
-      "program": "d:/Programming/DSA By Love Babbar/Recursion/build/Debug/outDebug",
+      "cwd": "d:/Programming/dsaProblems/Recursion",
+      "program": "d:/Programming/dsaProblems/Recursion/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
