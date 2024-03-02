@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Programming/DSA By Love Babbar/Assignment_3",
-      "program": "d:/Programming/DSA By Love Babbar/Assignment_3/build/Debug/outDebug",
+      "cwd": "d:/Programming/dsaProblems/Assignment_3",
+      "program": "d:/Programming/dsaProblems/Assignment_3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
